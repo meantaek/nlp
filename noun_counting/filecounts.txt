@@ -1,0 +1,10 @@
+a1.txt 609
+a2.txt 1454
+a3.txt 658
+a4.txt 1095
+a5.txt 1163
+a6.txt 564
+a7.txt 540
+a8.txt 603
+a9.txt 483
+a10.txt 443
